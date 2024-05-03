@@ -2,10 +2,11 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
+    background-color: darkslategrey;
   }
   
   header {
-    background-color: #f0f0f0;
+    background-color: darkslategrey;
     padding: 20px;
     text-align: center;
   }
@@ -127,3 +128,19 @@ body {
     opacity: 1;
     transition: 0s
   }
+
+  /* browse anime*/
+  .column {
+    float: left;
+    width: 22.22%;
+    padding: 1px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  /* browse anime*/
