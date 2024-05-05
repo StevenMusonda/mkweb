@@ -66,7 +66,7 @@ body {
     margin: 1px;
     height: 190px;
     width: 205px;
-    cursor: -webkit-zoom-in;
+    cursor: pointer;
   }
 
   .img2 {
