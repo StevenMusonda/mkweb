@@ -62,21 +62,22 @@ body {
 
   .img1 {
     border-radius: 30px;
-    padding: auto;
+    padding: 4px;
     margin: 1px;
     height: 190px;
     width: 205px;
     cursor: pointer;
+    display: inline;
   }
 
   .img2 {
     border-radius: 30px;
-    padding: auto;
+    padding: 4px;
     margin: 1px;
     height: 190px;
     width: 205px;
     cursor: pointer;
-    
+    display: inline;
     
   }
 
